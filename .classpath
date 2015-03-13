@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0/osdt_xmlsec-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0/org.openliberty.openaz.azapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/fmw_audit-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/identitystore-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-az-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-az-common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-az-rt-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-az-sspi-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-ee-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-internal-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-pep-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-platform-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-unsupported-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PezGod/Desktop/oes-client-libs/com.oracle.oesclient.11_1_2_2_0.17403853_Dec_2_2013_02_13_26/jps-wls-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
